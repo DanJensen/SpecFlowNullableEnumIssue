@@ -1,0 +1,11 @@
+c:\code\SpecFlowNullableEnumProblem\bin\Debug\SpecFlowNullableEnumProblem.dll.config
+c:\code\SpecFlowNullableEnumProblem\bin\Debug\SpecFlowNullableEnumProblem.dll
+c:\code\SpecFlowNullableEnumProblem\bin\Debug\SpecFlowNullableEnumProblem.pdb
+c:\code\SpecFlowNullableEnumProblem\bin\Debug\nunit.framework.dll
+c:\code\SpecFlowNullableEnumProblem\bin\Debug\nunit.mocks.dll
+c:\code\SpecFlowNullableEnumProblem\bin\Debug\pnunit.framework.dll
+c:\code\SpecFlowNullableEnumProblem\bin\Debug\TechTalk.SpecFlow.dll
+c:\code\SpecFlowNullableEnumProblem\bin\Debug\nunit.framework.xml
+c:\code\SpecFlowNullableEnumProblem\obj\Debug\ResolveAssemblyReference.cache
+c:\code\SpecFlowNullableEnumProblem\obj\Debug\SpecFlowNullableEnumProblem.dll
+c:\code\SpecFlowNullableEnumProblem\obj\Debug\SpecFlowNullableEnumProblem.pdb
